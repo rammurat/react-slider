@@ -1,6 +1,6 @@
 # Application Name - "react-slider"
 
-A base project developed using basic react flow using "ecma 6" and unit testing tool enzyme" implemented  
+A base project developed using basic react flow using <strong>"ecma 6"</strong> and unit testing tool <strong>"enzyme"</strong> implemented  
 This set-up is using web-pack tool to run application and test components.
 
 ## Purpose
