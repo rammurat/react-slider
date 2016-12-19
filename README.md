@@ -11,14 +11,14 @@ Learn reactjs and share clean and easy examples with react freshers
 
 
 ## Steps to run the application
-*Set up server
+* Set up server
 npm install
 
-*Start server
+* Start server
 npm start
 
-*Run unit test cases
+* Run unit test cases
 npm test
 
-*Run server on localhost 
+* Run server on localhost 
 http://localhost:8080/
